@@ -49,3 +49,4 @@ The result should be similar to the image below. Make sure the Java version is 1
 ![](images/maven-version.png)
 
 PS : ne plus DELETE l'orga 
+ATtention
